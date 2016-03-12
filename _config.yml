@@ -1,7 +1,7 @@
 name: Soledad Vega
 favicon: null
-layout_spectrum: 0.29810386383906007
-typography_spectrum: 0.8434171602129936
+layout_spectrum: 0
+typography_spectrum: 0.06084
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#fcf0e7'
+    - '#010101'
+    - '#fa8279'
+    - '#c33b5f'
+    - '#b4b3b2'
   brandStrength: 0.8419637745246291
   lightness: 0.5808462195564061
   saturation: 0.7960253187920898
