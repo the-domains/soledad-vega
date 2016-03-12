@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Agony of Obsolescence
-datePublished: '2016-03-12T19:57:29.196Z'
-dateModified: '2016-03-12T19:57:09.504Z'
+datePublished: '2016-03-12T19:58:33.996Z'
+dateModified: '2016-03-12T19:57:37.898Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-the-agony-of-obsolescence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-the-agony-of-obsolescence.md
-published: true
 url: the-agony-of-obsolescence/index.html
 _type: Article
 
